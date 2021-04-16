@@ -1,0 +1,180 @@
+*{
+   padding: 0px;
+   margin: 0px;
+}
+
+#bodyindex{
+    background: lightgreen;
+    padding: 33px;   
+}
+
+#bodydef{
+    background: rgb(217, 133, 238);
+    padding: 33px;   
+}
+
+#bodyorig{
+    background: rgb(255, 123, 118);
+    padding: 33px;   
+}
+
+#bodysig{
+    background: rgb(234, 238, 13);
+    padding: 33px;   
+}
+
+#bodycol{
+    background: rgb(221, 175, 89);
+    padding: 33px;   
+}
+
+#bodyman{
+    background: rgb(118, 209, 231);
+    padding: 33px; 
+}
+
+header{
+    background: orange;
+    padding: 10px;
+    margin: 20px 10px;
+    border: 5px solid purple;
+    text-align: center;
+}
+
+nav{
+    background: rgb(248, 248, 248);
+    padding: 5px 15px;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 26px Hoefler Text, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font: bold 44px Hoefler Text, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font: bold 33px Hoefler Text, sans-serif;
+}
+
+p{
+    font-size: 21px;
+    text-align: justify;
+}
+
+#p_uno{
+    text-align: center;
+    font-size: 20px;
+}
+
+#p_dos{
+    font-size: 18px;
+}
+
+table tr th{
+    font: bold 27px Times New Roman, sans-serif;
+}
+
+table tr td{
+    font: 18px Times New Roman, sans-serif;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+#tabn{
+    margin: auto;
+}
+
+.imagered{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+
+.imagesemic{
+    border-top-left-radius: 10% 10%;
+    border-top-right-radius: 10% 10%;
+    border-bottom-right-radius: 10% 10%;
+    border-bottom-left-radius: 10% 10%;
+}
+
+#imageuno{
+    margin: auto;
+    width: 450px;
+    height: 450px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+
+#imagedos{
+    margin: auto;
+    width: 900px;
+    height: 500px;
+}
+
+#imagetres{
+    margin: auto;
+    width: 375px;
+    height: 520px;
+    border-top-left-radius: 10% 10%;
+    border-top-right-radius: 10% 10%;
+    border-bottom-right-radius: 10% 10%;
+    border-bottom-left-radius: 10% 10%;
+}
+
+#imagecuatro{
+    margin: auto;
+    width: 700px;
+    height: 600px;
+    border-top-left-radius: 10% 10%;
+    border-top-right-radius: 10% 10%;
+    border-bottom-right-radius: 10% 10%;
+    border-bottom-left-radius: 10% 10%;
+}
+
+#imagecinco{
+    margin: auto;
+    width: 1000px;
+    height: 600px;
+    border-top-left-radius: 10% 10%;
+    border-top-right-radius: 10% 10%;
+    border-bottom-right-radius: 10% 10%;
+    border-bottom-left-radius: 10% 10%;
+}
+
+#imageseis{
+    margin: auto;
+    width: 400px;
+    height: 420px;
+    border-top-left-radius: 10% 10%;
+    border-top-right-radius: 10% 10%;
+    border-bottom-right-radius: 10% 10%;
+    border-bottom-left-radius: 10% 10%;
+}
+
+#tabcol{
+    margin: auto;
+    width: 333px;
+    height: 333px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+
+#fontli{
+    font: bold 18px Hoefler Text, sans-serif;
+}
+
